@@ -1,0 +1,20 @@
+body {
+  background-color: papayawhip;
+}
+
+h1 {
+  color: #ffa900;
+}
+
+h3 {
+  color: #f16821;
+  font-size: 24px;
+}
+
+hr {
+  border-style: none;
+  border-top: 3px double #333;
+  border-color: grey;
+  border-width: 4px;
+  width: 50%;
+}

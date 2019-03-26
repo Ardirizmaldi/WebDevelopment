@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.top {
+  background-color: #b4e9e2;
+  color: #309286;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+
+.middle {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.bottom {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+h1 {
+  margin-top: 0;
+}

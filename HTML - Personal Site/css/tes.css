@@ -1,0 +1,43 @@
+/** Selector {property : value;} **/
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: #f16821;
+  font-size: 24px;
+}
+
+img:hover {
+  max-width:20%;
+    height:auto;
+    background-color: gold;
+}
+
+/* Class Selector */
+.ayam{
+  background-color: green;
+}
+
+.Ayam{
+  background-color: yellow;
+}
+
+.circular{
+  border-radius: 75%;
+}
+
+p{
+  color: #f16821;
+}
+
+/** Selector {property : value;} **/
+/*
+#heading{
+  color: blue;
+}
+/
